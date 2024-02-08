@@ -1,0 +1,13 @@
+Post mapping -----> @PostMapping
+                    @ReqestBody
+
+
+CURD ------> SpringBoot Project ---------
+
+        JPA
+
+
+        Get -->read
+        Put --> Update
+        Post --> Create
+        Delete --> Delete
