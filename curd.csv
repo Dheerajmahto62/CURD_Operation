@@ -11,3 +11,10 @@ CURD ------> SpringBoot Project ---------
         Put --> Update
         Post --> Create
         Delete --> Delete
+
+  CURD Project
+  1. entity
+  2. controller
+  3.service
+  4. repository
+  5. database
